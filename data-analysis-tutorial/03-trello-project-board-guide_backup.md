@@ -36,32 +36,7 @@ Each task card should include:
 - 📝 Documentation
 
 ## Sprint Planning
-
-### Milestone 1 Cards
-- Set up Next.js project
-- Configure routing
-- Create AppShell component
-- Set up base CSS
-- Initialize Git repository
-
-### Milestone 2 Cards
-- Implement search/browse
-- Implement details view
-- API integration
-- Error handling
-
-### Milestone 3 Cards
-- Implement favorites
-- Implement filtering
-- Data persistence
-- Detail views
-
-### Milestone 4 Cards
-- Accessibility audit
-- Write tests
-- Performance optimization
-- Deploy to production
-- Documentation
+t
 
 ## Daily Workflow
 

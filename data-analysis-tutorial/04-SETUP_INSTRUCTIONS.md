@@ -22,7 +22,7 @@ git init
 
 # If cloning existing repo
 git clone <your-repo-url>
-cd agentic-data-quality-analysis-platform
+platformcd agentic-data-quality-analysis-
 ```
 
 ### 2. Install Dependencies
